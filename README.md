@@ -7,4 +7,4 @@
 ### Compiling:
 See [compiling.md](/code/compiling.md)
 ### Usage:
-Write the compiled .sta file to your iQue Player (`005d1870.sta` for Mǎlìōu Yīshēng (Dr. Mario), `00200f70.sta` for Zuì yǔ Fá: Dìqiú de Jìchéng Zhě (OoT)) and load it with cbc-tiào (temp name for like 5 seconds).
+Write the compiled .sta file to your iQue Player (`005d1870.sta` for 马力欧医生  (Dr. Mario), `00200f70.sta` for	罪与罚-地球的继承者-  (OoT)) and load it with cbc-tiào (temp name for like 5 seconds).
